@@ -23,12 +23,12 @@ Your passwords are encrypted on your own device — nothing is uploaded anywhere
 4. Click **Load unpacked** and choose the folder that contains `manifest.json`.
 5. Pin the My Vault icon to your toolbar, open it, and enter your **16-digit activation key**.
 
-> Need a key? Contact the developer, Arafat Ahmed.
+> **Need a key?** Contact the developer, Arafat Ahmed, on WhatsApp: [01786945337](https://wa.me/8801786945337)
 
 ## Activation keys
 
 - A key looks like `1234-5678-9012-3456`.
-- **One key works on one device at a time.** To move to another computer, open **Settings → Deactivate** first, then enter the same key on the new device. If you lost access to the old device, ask the developer to reset your key.
+- **One key works on one device at a time.** To move to another computer, open **Settings → Deactivate** first, then enter the same key on the new device. If you lost access to the old device, ask the developer (WhatsApp [01786945337](https://wa.me/8801786945337)) to reset your key.
 - Activation sends only your key and a random device ID to the license server. **Your passwords and vault never leave your device.**
 - After activating, My Vault keeps working offline; it re-checks the license in the background and tolerates up to 14 days without internet.
 
