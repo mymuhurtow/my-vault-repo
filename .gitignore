@@ -1,0 +1,9 @@
+node_modules/
+.wrangler/
+.dev.vars
+.env
+*.env
+activation-keys*.txt
+keys*.txt
+*.zip
+.DS_Store
